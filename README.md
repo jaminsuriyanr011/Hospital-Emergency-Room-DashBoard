@@ -4,15 +4,15 @@
 This project presents an interactive dashboard developed using Excel/Power BI/Tableau to monitor and analyze hospital emergency room operations. It offers insights into patient flow, wait times, satisfaction scores, and departmental referrals, aiding healthcare administrators in making data-driven decisions to enhance patient care and operational efficiency.
 
 # Objectives:
-Track daily and monthly patient visits to the ER.
+1) Track daily and monthly patient visits to the ER.
 
-Analyze patient wait times and identify peak hours.
+2) Analyze patient wait times and identify peak hours.
 
-Monitor patient satisfaction trends over time.
+3) Monitor patient satisfaction trends over time.
 
-Assess admission rates and departmental referrals.
+4) Assess admission rates and departmental referrals.
 
-Provide demographic breakdowns by age, gender, and race.
+4) Provide demographic breakdowns by age, gender, and race.
 
 # Key Features
 Interactive Filters: Select year, month, and department to view specific data.
@@ -34,10 +34,10 @@ Power BI: For advanced data modeling and interactive visualizations.
 Data Cleaning Tools: Power Query Editor (Power BI).
 
 # Insights from the Dashboard
-Identifies peak hours and days for ER visits, aiding in resource allocation.
+1)Identifies peak hours and days for ER visits, aiding in resource allocation.
 
-Monitors patient wait times to improve service efficiency.
+2)Monitors patient wait times to improve service efficiency.
 
-Tracks patient satisfaction trends to enhance service quality.
+3)Tracks patient satisfaction trends to enhance service quality.
 
-Analyzes admission rates and departmental referrals for operational planning.
+4)Analyzes admission rates and departmental referrals for operational planning.
