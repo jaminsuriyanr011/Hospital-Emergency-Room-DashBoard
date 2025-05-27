@@ -34,10 +34,10 @@ Power BI: For advanced data modeling and interactive visualizations.
 Data Cleaning Tools: Power Query Editor (Power BI).
 
 # Insights from the Dashboard
-1)Identifies peak hours and days for ER visits, aiding in resource allocation.
+1) Identifies peak hours and days for ER visits, aiding in resource allocation.
 
-2)Monitors patient wait times to improve service efficiency.
+2) Monitors patient wait times to improve service efficiency.
 
-3)Tracks patient satisfaction trends to enhance service quality.
+3) Tracks patient satisfaction trends to enhance service quality.
 
-4)Analyzes admission rates and departmental referrals for operational planning.
+4) Analyzes admission rates and departmental referrals for operational planning.
