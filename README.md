@@ -33,7 +33,7 @@ Power BI: For advanced data modeling and interactive visualizations.
 
 Data Cleaning Tools: Power Query Editor (Power BI).
 
-Insights from the Dashboard
+# Insights from the Dashboard
 Identifies peak hours and days for ER visits, aiding in resource allocation.
 
 Monitors patient wait times to improve service efficiency.
